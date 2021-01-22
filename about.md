@@ -7,7 +7,7 @@ comments: false
 ---
 ## Story so far
 
-Born in Athens, Greece. Grew up in a small town at the west side of Attica. Studied physics at the National and Kapodistrian University of Athens majoring in Nuclear and Particle Physics. Former intern at the <a href="http://www.km3net.org/">KM3NeT</a> project.
+Born in Athens, Greece. Grew up in a small town at the west side of Attica. Studied physics at the National and Kapodistrian University of Athens majoring in Nuclear and Particle Physics. Former intern at the <a href="http://www.km3net.org/" target="_blank" rel="noreferrer noopener">KM3NeT</a> project.
 
 ## Now
 
