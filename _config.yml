@@ -3,7 +3,7 @@ title: Nasos Voutouras # site title
 description: >- # site description
   My personal website! I write stuff about physics and computers. Find me @ <a href="mailto:nasosvt@protonmail.com">nasosvt[at]protonmail[dot]com</a>.
 lang: en-US # default lang
-timezone: Europe/Stockholm # set your timezone
+timezone:  # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
@@ -12,8 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Nasos Voutouras # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+     Hello! I'm Nasos. Thanks for coming by. I am a physicist and I sometimes write stuff about physics and computers.
   username: username # general username
   github: nasvt-phys117 # github username
   twitter:  # twitter username

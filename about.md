@@ -1,18 +1,19 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hi, I'm Nasos. I'm a theoretical physics student in Uppsala, Sweden. In this page you can find info about me and the website.
 comments: false
 ---
+## Story so far
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Born in Athens, Greece. Grew up in a small town at the west side of Attica. Studied physics at the National and Kapodistrian University of Athens majoring in Nuclear and Particle Physics. Former intern at the <a href="http://www.km3net.org/">KM3NeT</a> project.
 
-If you have a question about him or else, just send a letter to him.
+## Now
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Studying Theoretical Physics @ Uppsala University in Sweden.
 
-**may u needs ✨**
+## Find me @
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
