@@ -2,7 +2,7 @@
 title: About
 permalink: /about/
 layout: page
-excerpt: Hi, I'm Nasos. I'm a theoretical physics student in Uppsala, Sweden. In this page you can find info about me and the website.
+excerpt: Hi, I'm Nasos. I'm a theoretical physics student in Uppsala, Sweden. In this page you can find info about me.
 comments: false
 ---
 ## Story so far
