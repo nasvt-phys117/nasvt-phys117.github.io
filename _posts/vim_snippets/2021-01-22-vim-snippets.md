@@ -32,9 +32,9 @@ Firstly we need to download the \"language\" support extensions for $\LaTeX$and/
 
 Since we are aiming for efficiency, we need to be able to trigger snippets as fast and easy as possible. To achieve this we need to change the default setting of not showing suggestions (therefore not allowing us to trigger the snippets) inside other snippets (see gif). As you can see when I trigger the `\dv` snippet the first argument doesn\'t work but the second does:
 
-![](_posts/vim_snippets/not_good.gif)
-
-<!--![](not_good.gif){width="320" height="180"} -->
+{:refdef: style="text-align: center;"}
+![image](/assets/images/vim_snippets/not_good.gif){: .align-center height="70%" width="70%"}
+{: refdef}
 
 Press <kbd>Ctrl </kbd>+ <kbd>Shift</kbd> + <kbd>P</kbd>, type `settings` and
 select `Open Settings (JSON)`. Add the following line inside the
@@ -56,14 +56,20 @@ My settings have some additional lines:
         "telemetry.enableTelemetry": false
     }
 
-<!-- ![](good.gif){width="320" height="180"} -->
+The prefered behavior is shown below.
+
+{:refdef: style="text-align: center;"}
+![image](/assets/images/vim_snippets/good.gif ){: height="70%" width="70%"}
+{: refdef}
 
 ### Creating snippets
 
 Before we start writing custom snippets we need to think about what we need to automate. Take a look at the **LaTeX Workshop** [manual](https://github.com/James-Yu/LaTeX-Workshop/wiki/Snippets) where there\'s a list of all the available snippets. You can see that it can easily take care of structure environments like `begin{equation*}` with `bseq` <kbd>Tab</kbd> (you don\'t actually have to type `bseq`, it can be triggered with `bse` + <kbd>Tab</kbd>).
 
-<!-- ![](bseq.gif){width="320" height="180"}
--->
+{:refdef: style="text-align: center;"}
+![image](/assets/images/vim_snippets/bseq.gif){: height="70%" width="70%"}
+{: refdef}
+
 Since Dirac's notation is pretty common and useful we\'ll try to make some snippets for it. We\'ll avoid the `physics` package commands to make the expressions render even without including the package in the preamble. As you can see from the GIFs, I have also automated the commands for Greek letters $\psi,\Psi$ and the partial derivatives.
 
 Now, we will write snippets for
@@ -153,7 +159,9 @@ Let\'s take a look at the syntax. Each snippet begins with `snippet` followed by
 
 The `w` option along with `A` will automatically trigger the snippet if it\'s not appended to a word (i.e. has white space behind it).
 
-<!--![](test.gif){width="768" height="432"}-->
+{:refdef: style="text-align: center;"}
+![image](/assets/images/vim_snippets/test.gif){: height="80%" width="80%"}
+{: refdef}
 
 The nonsensical expression in the gif was typed, as one can see, pretty fast. We also saved tons of keystrokes. We can get deeper by using python and regular expressions but the \"short\", \"doable\" for beginners instructions that were promised at the beginning of the text would be turned into a nightmarish looking series of various symbols that appear to have no meaning whatsoever other than to intimidate the reader. The \"code\" for the two snippets (the `begin` one was shown above) is listed below:
 
