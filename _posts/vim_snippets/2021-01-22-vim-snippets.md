@@ -20,9 +20,9 @@ You can find $\LaTeX$at the following links:
         the [wiki](https://wiki.archlinux.org/index.php/TeX_Live) for
         more info.
 
-If you have no previous experience with $\LaTeX$, you can use Markdown which is much simpler and easier to learn. A good starting point would be [Typora](https://typora.io/) which is pretty much ok except for the fact that the developer hasn\'t released the code to the public. A libre alternative that I\'ve used is [UberWriter/Apostrophe](https://gitlab.gnome.org/somas/apostrophe). These programs don\'t support snippets as far as I\'m aware but they\'re ok for casual writing.
+**Tip**:If you have no previous experience with $\LaTeX$, you can use Markdown which is much simpler and easier to learn. A good starting point would be [Typora](https://typora.io/) which is pretty much ok except for the fact that the developer hasn\'t released the code to the public. A libre alternative that I\'ve used is [UberWriter/Apostrophe](https://gitlab.gnome.org/somas/apostrophe). These programs don\'t support snippets as far as I\'m aware but they\'re ok for casual writing.
 
-Lastly, we will need a text editor that can actually support snippets. Microsoft\'s [Visual Studio Code](https://code.visualstudio.com/) is easy to learn and provides all the necessary tools with just a few clicks. My new favorite editor is vim which is highly customizable, lightweight and most importantly, minimal. We will go over both of these starting with Visual Studio Code. I use the OSS version which is installed via flatpak but any version would work. I suggest the official download since you don\'t need any additional post-installation setup.
+Lastly, we will need a text editor that can actually support snippets. Microsoft\'s [Visual Studio Code](https://code.visualstudio.com/) is easy to learn and provides all the necessary tools with just a few clicks. My new favorite editor is vim which is highly customizable and lightweight. Where it really shines though, is the keyboard based workflow. We will go over both of these starting with Visual Studio Code. I use the OSS version which is installed via flatpak but any version would work. I suggest the official download since you don\'t need any additional post-installation setup.
 
 ## Snippets in Visual Studio Code
 
