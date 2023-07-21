@@ -1,18 +1,18 @@
 # Site settings
 title: Nasos Voutouras # site title
 description: >- # site description
-A personal website.
+  This is the site's description.
 lang: en-US # default lang
-timezone: Europe/Greece # set your timezone
-image: # This image used for Open Graph more info https://ogp.me/
-repo: # site repo [optional]
+timezone: Europe/Athens # set your timezone
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+# repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: light # default theme "dark" | "light"
 
 # Profile settings
-author: Nasos Voutouras
+author:
   name: Nasos Voutouras # author name
   bio: >- # tell to the world
-    Short bio: I am a graduate physicist (MSc - Theoretical Physics). I like maths and computers, reading and video games.
+    My bio.
   username: nasosvt # general username
   github: nasvt-phys117 # github username
   twitter: nasosvt # twitter username

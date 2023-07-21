@@ -18,7 +18,7 @@
   -webkit-user-select: none;
 
   a#mode {
-    float: left;
+    float: right;
     left: 8px;
     top: 6px;
     position: relative;
@@ -61,7 +61,7 @@
   }
 
   .trigger {
-    float: right;
+    text-align: center;
   }
 
   .menu-trigger {
