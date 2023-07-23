@@ -6,9 +6,12 @@ excerpt: This is the excerpt of the page.
 comments: false
 ---
 
-A graduate physicist MSc.
+I am a MSc graduate of Theoretical Physics focused on Quantum Field Theories and Strings. I enjoy reading and learning about Scattering Amplitudes, Quantum Computing and abstract Mathematics.
+
+
+I'll try to drop any useful stuff I can find.
 
 **Find me on**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- [Email](mailto: {{ site.author.email }})
+- [Twitter](https://twitter.com/{{ site.author.twitter }}) 

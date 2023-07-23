@@ -1,7 +1,7 @@
 # Site settings
 title: Nasos Voutouras # site title
 description: >- # site description
-  This is the site's description.
+  This is my personal website! Welcome!
 lang: en-US # default lang
 timezone: Europe/Athens # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Nasos Voutouras # author name
   bio: >- # tell to the world
-    My bio.
+    Hello, I'm Nasos! I like physics, computers, maths, books and video games.
   username: nasosvt # general username
   github: nasvt-phys117 # github username
   twitter: nasosvt # twitter username
