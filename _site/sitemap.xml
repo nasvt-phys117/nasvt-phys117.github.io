@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/What-am-I-doing/</loc>
+<lastmod>2022-08-22T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/essays/GeometryClassicalMechanicsPt1/ClassicalMechanicsGeometry/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/archive/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/essays/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -20,6 +30,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/cv_2023.pdf</loc>
-<lastmod>2023-06-27T21:11:47+03:00</lastmod>
+<lastmod>2023-09-05T22:56:50+03:00</lastmod>
 </url>
 </urlset>
