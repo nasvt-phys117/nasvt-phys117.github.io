@@ -13,4 +13,3 @@ I'll try to post any usefull things I find.
 **Contact**
 
 - [Email](mailto: {{ site.author.email }})
-- [Twitter](https://twitter.com/{{ site.author.twitter }}) 
