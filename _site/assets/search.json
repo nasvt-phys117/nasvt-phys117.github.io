@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Day trip to Nemea",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Day-trip-to-Nemea/",
+      "date"     : "2025-05-18 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "Jekyll blog with docker",
       "description" : "",
       "tags"     : "",
